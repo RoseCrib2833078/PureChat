@@ -22,7 +22,7 @@ commands:
     permission: pchat.command.setsuffix	
 permissions:
   pchat:
-    description: "PureChat by 64FF00! (Twitter: @64FF00)"
+    description: "PureChat by #64FF00! (Twitter: @64FF00)"
     children:
       pchat.command:
         description: "Allows you to use all PureChat commands."
